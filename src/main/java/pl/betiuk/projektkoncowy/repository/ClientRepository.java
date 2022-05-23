@@ -5,4 +5,6 @@ import pl.betiuk.projektkoncowy.model.Client;
 
 
 public interface ClientRepository extends JpaRepository<Client, Long> {
+
+
 }
